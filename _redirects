@@ -1,5 +1,5 @@
-/example https://example.com
-/twitter https://twitter.com/VictorTolbert
-/edit https://github.com/VictorTolbert/netlify-shortener/edit/master/_redirects
+/example   https://example.com
+/twitter   https://twitter.com/VictorTolbert
+/edit      https://github.com/VictorTolbert/netlify-shortener/edit/master/_redirects
 
-/*       https://google.com
+/*         https://google.com
