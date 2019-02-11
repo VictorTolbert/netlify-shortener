@@ -1,0 +1,14 @@
+{
+  "name": "shortener",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:VictorTolbert/shortener.git",
+  "author": "Victor Tolbert <victor.tolbert@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "devDependencies": {
+    "netlify-shortener": "^1.0.3"
+  }
+}
